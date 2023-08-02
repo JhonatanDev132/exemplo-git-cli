@@ -8,9 +8,13 @@
 - Entrar na pasta: cd nomepasta
 
 ## Comando principais do git
+`git config user.name` e `git config user.email`
+Verificar usuário/email
 
-Inicializar um repositório (executado dentro da pasta)
+`git init`
 
-git init
+Inicializar um repositório (Executado dentro da pasta).
 
-verificar o status atual do repositório
+`git status`
+
+Verificar status atual do repositório
