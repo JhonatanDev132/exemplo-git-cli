@@ -13,7 +13,7 @@
 
 Mudar usuário e o email de forma global.
 
-**Obs:** normalmente estes dados estão relacionados ao usuário/conta do site Github.
+**Obs:** normalmente estes dados estão relacionados ao usuário/conta do site Github.    
 
 `git config user.name` e `git config user.email`
 Verificar usuário/email
@@ -25,3 +25,11 @@ Inicializar um repositório (Executado dentro da pasta).
 `git status`
 
 Verificar status atual do repositório
+
+`git add nomearquivo`
+
+Adicionar (Tornar arquivo rastreável) ao monitoramento do git.
+
+`git commit -m "texto da mensagem sobre esta alteração"`
+
+Fazer commit das alterações (salvar no histórico)
