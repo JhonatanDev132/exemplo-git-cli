@@ -43,3 +43,11 @@ Adicionar/conetar o repositório para a máquina remota.
 `git commit -m "texto da mensagem sobre esta alteração"`
 
 Fazer commit das alterações (salvar no histórico)
+
+`git push origin main`
+
+Enviar as mudanças para o GitHub (PUSH).
+
+`git clone endereço-do-repositório.git`
+
+Copiando/baixando um repositório para a máquina remota.
