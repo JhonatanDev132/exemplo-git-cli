@@ -51,3 +51,7 @@ Enviar as mudanças para o GitHub (PUSH).
 `git clone endereço-do-repositório.git`
 
 Copiando/baixando um repositório para a máquina remota.
+
+`git pull origin main`
+
+Pegar/obter as mudanças do repositório online Github (PULL)
