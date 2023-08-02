@@ -22,6 +22,12 @@ Verificar usuário/email
 
 Inicializar um repositório (Executado dentro da pasta).
 
+`git branch nome-branch-atual novo-nome-para-branch`
+
+Renomear branches
+
+para alterar a branch de **master** para **main** (novo padrão), usaríamos? `git branch master main`
+
 `git status`
 
 Verificar status atual do repositório
@@ -29,6 +35,10 @@ Verificar status atual do repositório
 `git add nomearquivo`
 
 Adicionar (Tornar arquivo rastreável) ao monitoramento do git.
+
+`git remote add origin endereço-do-repositório.git`
+
+Adicionar/conetar o repositório para a máquina remota.
 
 `git commit -m "texto da mensagem sobre esta alteração"`
 
