@@ -8,6 +8,13 @@
 - Entrar na pasta: cd nomepasta
 
 ## Comando principais do git
+`git config --global user.name "Seu nome como quiser"` e 
+`git config --global user.email "seuemail@provedo.com"`
+
+Mudar usuário e o email de forma global.
+
+**Obs:** normalmente estes dados estão relacionados ao usuário/conta do site Github.
+
 `git config user.name` e `git config user.email`
 Verificar usuário/email
 
